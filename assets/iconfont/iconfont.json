@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15378388",
+      "name": "gitea",
+      "font_class": "gitea",
+      "unicode": "eba0",
+      "unicode_decimal": 60320
+    },
+    {
       "icon_id": "23179687",
       "name": "bilibili-fill",
       "font_class": "bilibili-fill",
