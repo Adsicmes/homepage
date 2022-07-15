@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('/assets/img/background.png');
+    background-image: url('https://web-cdn-storage.oss-accelerate.aliyuncs.com/homepage/background.png');
 }
 #rin-bg:after {
     top: 0;
